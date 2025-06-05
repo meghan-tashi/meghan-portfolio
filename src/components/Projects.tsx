@@ -31,7 +31,7 @@ const Projects: React.FC = () => {
       title: "Exploitable Web Application",
       description:
         "Developed as a final year diploma project, this application intentionally incorporates various security vulnerabilities, including SQL injection, sensitive data exposure, missing access control, CSRF, and open redirects. It serves as an educational tool for understanding web application security.",
-      technologies: ["HTML", "JavaScript", "PHP", "MySQL"],
+      technologies: ["Java", "SpringBoot", "MySQL"],
     },
     {
       title: "Student Management System",
