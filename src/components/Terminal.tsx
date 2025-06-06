@@ -6,7 +6,7 @@ interface TerminalProps {
   children: ReactNode;
 }
 
-const Terminal: React.FC<TerminalProps> = ({ title = "terminal@mohammed:~", children }) => {
+const Terminal: React.FC<TerminalProps> = ({ title = "terminal@meghan:~", children }) => {
   return (
     <div className="terminal mb-6 shadow-[0_0_15px_rgba(60,255,85,0.15)]">
       <div className="terminal-header">
